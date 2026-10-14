@@ -27,9 +27,11 @@
 
 | Tier | Price | Includes |
 |---|---|---|
-| Tier 1 | R1,000 | Single page — logo, photos, services list, WhatsApp/call button |
-| Tier 2 | R1,500 | Up to 3 pages, contact form, link to TurnoutPro marketplace profile |
+| Tier 1 | R1,000 | Single page — logo, photos, services list, WhatsApp/call button, link to TurnoutPro marketplace profile |
+| Tier 2 | R1,500 | Up to 3 pages, contact form |
 | Tier 3 | R2,000 | Up to 5 pages, testimonials, pricing display, Google Maps embed |
+
+Each tier includes everything in the tier below, so every site links to the supplier's TurnoutPro marketplace profile. The site exists to bring suppliers onto the marketplace, so the link is never left out.
 
 Pricing is flexible — willing to work around a supplier's budget rather than losing the sign-up over price.
 
